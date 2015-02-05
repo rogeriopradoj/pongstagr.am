@@ -43,7 +43,7 @@ $(window).load(function () { "use strict";
   Pongstr({ target: '#recent',  show: 'recent',   count: 4 })
   Pongstr({ target: '#likes' ,  show: 'liked' ,   count: 4 })
   Pongstr({ target: '#feed'  ,  show: 'feed'  ,   count: 4 })
-  Pongstr({ target: '#tags'  ,  show: 'nofilter', count: 40 })
+  Pongstr({ target: '#tags'  ,  show: 'RogerioLarissa2015', count: 40 })
 
 
   $('[data-hash=slide]').each(function () {
