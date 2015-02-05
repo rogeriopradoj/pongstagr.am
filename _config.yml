@@ -15,13 +15,13 @@ pygments:     true
 
 # Permalinks
 permalink:    pretty
-baseurl:      http://pongstr.github.io/pongstagr.am
+baseurl:      https://rogeriopradoj.github.io/pongstagr.am
 
 # Server
 destination:  _gh_pages
 port:         4001
 
 # Versions
-repourl:     "https://github.com/pongstr/pongstagr.am/"
+repourl:     "https://github.com/rogeriopradoj/pongstagr.am/"
 version:     "3.0.4"
-download:    "https://github.com/pongstr/pongstagr.am/archive/v3.0.4.zip"
+download:    "https://github.com/rogeriopradoj/pongstagr.am/archive/v3.0.4.zip"
