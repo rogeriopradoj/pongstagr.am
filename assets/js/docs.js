@@ -25,8 +25,8 @@ $(window).load(function () { "use strict";
    * I'd really appreciate that! Thank you!
    * 
    */
-    var userid   = '679256982'
-    var usrtoken = '679256982.401c5ac.0a183542db5f4ae1b51caae21acadc1e'
+    var userid   = '7187f19e5e0b4fbca70f14cad575cda7'
+    var usrtoken = '5ca9121cafff430f8be8607ac96f1284'
 
     $(option.target).pongstgrm({
         accessId:         userid
